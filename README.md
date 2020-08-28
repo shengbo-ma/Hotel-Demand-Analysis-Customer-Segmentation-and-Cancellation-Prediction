@@ -1,0 +1,5 @@
+# Hotel-Demand-Analysis-Customer-Segmentation-Cancellation-Prediction
+
+In this project, data analysis is conducted on a real-world dataset named Hotel Bookings Demand to investigate patterns on hotel booking behaviors. The dataset is the booking records provided by two hotels, one located in city and the other located in resort, in Portugal from 2015 to 2017. It is of great importance for hotel managing purpose to figures out the answers to following two questions: (i) How to predict whether a customer would cancel the booking or not? (ii) Are there any patterns in customers’ booking behaviors, by which they can be segmented into groups that enable the managing team to propose distinct promotions? Hence, customer segmentation and cancelation prediction are investigated. Customer segment is done by dimension reduction via t-SNE, followed by hierarchical clustering. Cancelation prediction is done by applying Random Forest Classification. It is found that there are 7 customer groups with distinct booking patterns. The cancelation prediction has achieved an accuracy of 80% and 79% for train and test set, respectively.
+
+see report (pdf file) for more details.
